@@ -96,8 +96,9 @@ pip install -r requirements.txt
 # Run the app
 streamlit run app.py
 
-**📁 Project Structure**
+## 📁 Project Structure
 
+```
 credit-risk-scorecard-fintech/
 │
 ├── app.py
@@ -119,6 +120,7 @@ credit-risk-scorecard-fintech/
 │   └── ui_screenshot.png
 │
 └── .gitignore
+```
 
 **💡 Business Impact**
 
