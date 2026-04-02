@@ -111,6 +111,14 @@ credit-risk-scorecard-fintech/
 ├── notebooks/
 │   ├── model_building.ipynb
 │   └── ks_analysis.ipynb
+│
+├── data/
+│   └── sample_data.csv
+│
+├── images/
+│   └── ui_screenshot.png
+│
+└── .gitignore
 
 **💡 Business Impact**
 
