@@ -1,5 +1,7 @@
 ***💳 Credit Risk Modeling & Scorecard System (FinTech)***
-📌 Overview
+
+**📌 Overview**
+
 This project builds an end-to-end Credit Risk Modeling system for a fintech/NBFC use case. It predicts the probability of loan default and generates a credit score (300–900) similar to CIBIL, enabling data-driven lending decisions.
 The system is deployed using a Streamlit web application, allowing real-time risk assessment based on borrower details.
 
@@ -93,7 +95,9 @@ pip install -r requirements.txt
 
 # Run the app
 streamlit run app.py
-📁 Project Structure
+
+**📁 Project Structure**
+
 credit-risk-scorecard-fintech/
 │
 ├── app.py
